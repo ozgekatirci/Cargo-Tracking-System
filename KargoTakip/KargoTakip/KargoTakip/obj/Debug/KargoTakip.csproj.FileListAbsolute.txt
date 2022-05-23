@@ -1,0 +1,244 @@
+C:\Users\melis\source\repos\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe.config
+C:\Users\melis\source\repos\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe
+C:\Users\melis\source\repos\KargoTakip\KargoTakip\bin\Debug\KargoTakip.pdb
+C:\Users\melis\source\repos\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csprojAssemblyReference.cache
+C:\Users\melis\source\repos\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Properties.Resources.resources
+C:\Users\melis\source\repos\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.GenerateResource.cache
+C:\Users\melis\source\repos\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.CoreCompileInputs.cache
+C:\Users\melis\source\repos\KargoTakip\KargoTakip\obj\Debug\KargoTakip.exe
+C:\Users\melis\source\repos\KargoTakip\KargoTakip\obj\Debug\KargoTakip.pdb
+C:\Users\melis\source\repos\KargoTakip\KargoTakip\obj\Debug\KargoTakip.GirisEkranıForm.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (2)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe.config
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (2)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (2)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.pdb
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csprojAssemblyReference.cache
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Properties.Resources.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.GenerateResource.cache
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.CoreCompileInputs.cache
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.exe
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.pdb
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserEnter.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.StartScreen.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminEnter.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminOptions.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserOptions.resources
+C:\Users\melis\Downloads\KargoTakip\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe.config
+C:\Users\melis\Downloads\KargoTakip\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe
+C:\Users\melis\Downloads\KargoTakip\KargoTakip\KargoTakip\bin\Debug\KargoTakip.pdb
+C:\Users\melis\Downloads\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csprojAssemblyReference.cache
+C:\Users\melis\Downloads\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminEnter.resources
+C:\Users\melis\Downloads\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminOptions.resources
+C:\Users\melis\Downloads\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserEnter.resources
+C:\Users\melis\Downloads\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Properties.Resources.resources
+C:\Users\melis\Downloads\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.StartScreen.resources
+C:\Users\melis\Downloads\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserOptions.resources
+C:\Users\melis\Downloads\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.GenerateResource.cache
+C:\Users\melis\Downloads\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.CoreCompileInputs.cache
+C:\Users\melis\Downloads\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.exe
+C:\Users\melis\Downloads\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.pdb
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (5)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe.config
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (5)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (5)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.pdb
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csprojAssemblyReference.cache
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminEnter.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminOptions.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserEnter.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Properties.Resources.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.StartScreen.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserOptions.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.GenerateResource.cache
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.CoreCompileInputs.cache
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.exe
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.pdb
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserFormerCargos.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserCargoSend.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminUserInfos.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserSupport.resources
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe.config
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.pdb
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csprojAssemblyReference.cache
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminEnter.resources
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminOptions.resources
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminUserInfos.resources
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserCargoSend.resources
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserEnter.resources
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Properties.Resources.resources
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.StartScreen.resources
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserFormerCargos.resources
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserOptions.resources
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserSupport.resources
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.GenerateResource.cache
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.CoreCompileInputs.cache
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.exe
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.pdb
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminCargoList.resources
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminCargoAdd.resources
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminStaffInfos.resources
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminSupport.resources
+C:\Users\melis\Downloads\KargoTakip (1)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserCargoTracking.resources
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csprojAssemblyReference.cache
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminCargoAdd.resources
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminCargoList.resources
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminEnter.resources
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminOptions.resources
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminStaffInfos.resources
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminSupport.resources
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminUserInfos.resources
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserCargoSend.resources
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserCargoTracking.resources
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserCargoTrackingMap.resources
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserEnter.resources
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Properties.Resources.resources
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.StartScreen.resources
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserFormerCargos.resources
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserOptions.resources
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserSupport.resources
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.GenerateResource.cache
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.CoreCompileInputs.cache
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.exe
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.pdb
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe.config
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.pdb
+C:\Users\melis\Downloads\KargoTakip (2)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserAppointment.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe.config
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.pdb
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csprojAssemblyReference.cache
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminCargoAdd.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminCargoList.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminEnter.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminOptions.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminStaffInfos.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminSupport.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminUserInfos.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserAppointment.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserCargoSend.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserCargoTracking.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserCargoTrackingMap.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserEnter.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Properties.Resources.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.StartScreen.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserFormerCargos.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserOptions.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserSupport.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.GenerateResource.cache
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.CoreCompileInputs.cache
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.exe
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (10)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.pdb
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe.config
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.pdb
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csprojAssemblyReference.cache
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminAppointment.resources
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminCargoAdd.resources
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminCargoList.resources
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminEnter.resources
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminOptions.resources
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminStaffInfos.resources
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminSupport.resources
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminUserInfos.resources
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserAppointment.resources
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserCargoSend.resources
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserCargoTracking.resources
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserEnter.resources
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Properties.Resources.resources
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.StartScreen.resources
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserFormerCargos.resources
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserOptions.resources
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserSupport.resources
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.GenerateResource.cache
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.CoreCompileInputs.cache
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.exe
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.pdb
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminCargoTracking.resources
+C:\Users\melis\Downloads\KargoTakip (3)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.CargoTrackingMap.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe.config
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.pdb
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csprojAssemblyReference.cache
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminAppointment.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminCargoAdd.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminCargoList.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminCargoTracking.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminEnter.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminOptions.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminStaffInfos.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminSupport.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminUserInfos.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.CargoTrackingMap.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserAppointment.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserCargoSend.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserCargoTracking.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserEnter.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Properties.Resources.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.StartScreen.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserFormerCargos.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserOptions.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserSupport.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.GenerateResource.cache
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.CoreCompileInputs.cache
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.exe
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.pdb
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip (12)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserHome.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe.config
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\bin\Debug\KargoTakip.pdb
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csprojAssemblyReference.cache
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminAppointment.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminCargoAdd.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminCargoList.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminCargoTracking.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminEnter.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminOptions.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminStaffInfos.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminSupport.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminUserInfos.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.CargoTrackingMap.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserAppointment.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserAppointmentCancel.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserCargoSend.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserCargoTracking.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserEnter.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Properties.Resources.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.StartScreen.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserFormerCargos.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserHome.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserOptions.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserSupport.resources
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.GenerateResource.cache
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.CoreCompileInputs.cache
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.exe
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.pdb
+C:\Users\melis\Desktop\KargoTakip (5)\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminHome.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe.config
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\bin\Debug\KargoTakip.pdb
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csprojAssemblyReference.cache
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminAppointment.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminCargoAdd.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminCargoList.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminCargoTracking.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminEnter.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminHome.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminOptions.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminStaffInfos.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminSupport.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.AdminUserInfos.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.CargoTrackingMap.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserAppointment.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserAppointmentCancel.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserCargoSend.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserCargoTracking.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserEnter.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Properties.Resources.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.StartScreen.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserFormerCargos.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserHome.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserOptions.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.UserSupport.resources
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.GenerateResource.cache
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.CoreCompileInputs.cache
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.exe
+C:\Users\ozgek\OneDrive\Masaüstü\KargoTakip\KargoTakip\KargoTakip\obj\Debug\KargoTakip.pdb

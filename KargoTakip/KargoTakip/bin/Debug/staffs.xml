@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<staffs>
+  <staff>
+    <staffName>Ayşe Demir</staffName>
+    <staffId>202</staffId>
+    <staffJob>Teslimat</staffJob>
+    <staffStartTime>2021-05-05T22:42:27</staffStartTime>
+  </staff>
+  <staff>
+    <staffName>Ferhat Aksu</staffName>
+    <staffId>427</staffId>
+    <staffJob>Kurye</staffJob>
+    <staffStartTime>2021-02-09T22:55:32</staffStartTime>
+  </staff>
+  <staff>
+    <staffName>Caner Işık</staffName>
+    <staffId>518</staffId>
+    <staffJob>Kurye</staffJob>
+    <staffStartTime>2021-02-09T22:55:32</staffStartTime>
+  </staff>
+  <staff>
+    <staffName>ali çalışır</staffName>
+    <staffId>12345678920</staffId>
+    <staffJob>dağıtım</staffJob>
+    <staffStartTime>2021-05-20T00:00:00</staffStartTime>
+  </staff>
+  <staff>
+    <staffName>ali veli</staffName>
+    <staffId>12345678910</staffId>
+    <staffJob>dağıtım</staffJob>
+    <staffStartTime>2021-06-01T06:53:31.4119611+03:00</staffStartTime>
+  </staff>
+  <staff>
+    <staffName>ahmet can</staffName>
+    <staffId>1236548955</staffId>
+    <staffJob>dağıtım</staffJob>
+    <staffStartTime>2021-05-20T00:00:00</staffStartTime>
+  </staff>
+</staffs>

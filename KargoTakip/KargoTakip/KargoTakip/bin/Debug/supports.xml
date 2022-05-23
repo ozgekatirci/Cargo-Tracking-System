@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<supports>
+  <support>
+    <supportName>2</supportName>
+    <supportText></supportText>
+    <supportState></supportState>
+  </support>
+  <support>
+    <supportName>2</supportName>
+    <supportText>1</supportText>
+    <supportState>Değerlendirildi</supportState>
+  </support>
+  <support>
+    <supportName>2</supportName>
+    <supportText>777</supportText>
+    <supportState></supportState>
+  </support>
+  <support>
+    <supportName>2</supportName>
+    <supportText>7777</supportText>
+    <supportState></supportState>
+  </support>
+  <support>
+    <supportName>2</supportName>
+    <supportText>7777</supportText>
+    <supportState></supportState>
+  </support>
+  <support>
+    <supportName>2</supportName>
+    <supportText>8</supportText>
+    <supportState></supportState>
+  </support>
+  <support>
+    <supportName>2</supportName>
+    <supportText>9</supportText>
+    <supportState></supportState>
+  </support>
+  <support>
+    <supportName>2</supportName>
+    <supportText>10</supportText>
+    <supportState></supportState>
+  </support>
+</supports>

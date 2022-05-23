@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<supports>
+  <support>
+    <supportName>melisa</supportName>
+    <supportText>Kargom geldiğinde kutu darbe almıştı.</supportText>
+    <supportState></supportState>
+  </support>
+  <support>
+    <supportName>melisa</supportName>
+    <supportText>Kargom sorunsuz geldi.</supportText>
+    <supportState></supportState>
+  </support>
+  <support>
+    <supportName>melisa</supportName>
+    <supportText>Paketim yine darbe almıştı, lütfen bu sorunla ilgilenin.</supportText>
+    <supportState>Değerlendirildi</supportState>
+  </support>
+  <support>
+    <supportName>ozge</supportName>
+    <supportText>Kargom teslim saatinde gelmedi.</supportText>
+    <supportState>Değerlendirildi</supportState>
+  </support>
+  <support>
+    <supportName>sude</supportName>
+    <supportText>Kuryeniz çok kaba davrandı.</supportText>
+    <supportState>Değerlendirildi</supportState>
+  </support>
+</supports>
